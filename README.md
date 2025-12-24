@@ -8,9 +8,11 @@ bash <(curl -s https://raw.githubusercontent.com/zitlem/Proxmox-Scripts/master/p
 
 ## One-Line Linux Set Static IP)
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/zitlem/Proxmox-Scripts/master/linux-set-static-ip.shsh)
+bash <(curl -s https://raw.githubusercontent.com/zitlem/Proxmox-Scripts/master/linux-set-static-ip.sh)
+```
 
 ## proxmenux
+```bash
 bash -c "$(wget -qLO - https://raw.githubusercontent.com/MacRimi/ProxMenux/main/install_proxmenux.sh)"
 ```
 
